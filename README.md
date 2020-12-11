@@ -10,7 +10,7 @@ _Write a number, and the application will returns all of the prime numbers less 
 
 ## <span style="color:#0ec2b8">Setup/Installation Requirements</span>
 ### <span style="color:#c4f4ef">Open Locally</span>
-1. _Navigate to my [Find And Replace repo](https://github.com/mandystar018/csharp-prime-shifting) to view the project files and commits.
+1. _Navigate to my [csharp-prime-shifting](https://github.com/mandystar018/csharp-prime-shifting) to view the project files and commits._
 2. _Click on the green button labeled "Code"_ to copy repository URL.
 3. _Clone the repository to your local machine_ by opening your machine terminal and using the command "git clone https://github.com/mandystar018/csharp-prime-shifting".
 4. _Navigate to the folder "/FindAndReplace.Tests"/ModelTests/ to see test files._
