@@ -1,6 +1,6 @@
 # <span style="color:#0ec2b8">_Prime-Sifting_</span>
 
-#### _ Prime-Sifting app, 12/09/2020_
+#### _Prime-Sifting app, 12/09/2020_
 
 #### By _**Amanda Otero**_
 
